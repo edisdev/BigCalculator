@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3963954145e88621c6c2025e1a3168d82e0f8f71">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f241792bd1c8b580a6e17fdd59d1c4b6670e6fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_df15f898b2d3f413574f95cc78cbc65cd8394330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_acbd8ab04abc3ce2397573f25c5716e4ebcf43ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_f67c9f64b44aa37cf87de12d08544051e132b059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_df15f898b2d3f413574f95cc78cbc65cd8394330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_51663e3742f80bdcb6ad1049a7c1850dcd983f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_e8cb4d9c451afb33ef6daa835928bc3d50e3b5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_51663e3742f80bdcb6ad1049a7c1850dcd983f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_e8cb4d9c451afb33ef6daa835928bc3d50e3b5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_a288a76ebea9d63bc1332cee12a6c6f82c9be3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_a288a76ebea9d63bc1332cee12a6c6f82c9be3d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_0183df86234f3af5cffa602f03ca0a5b19b5a142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53f61ea1055418a6a1f329282e877aecc566e8a3">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\instant-run_c97f3c034a0e7643b1fe55717bbf885fc6d39790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_0183df86234f3af5cffa602f03ca0a5b19b5a142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_de87d99d412c4218b69a922b1e5b34bc15ad5425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_036ca90f518956b827bbf3155e00655b17f364fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_282c354f8476fcbee58094021664db0581147688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_acbd8ab04abc3ce2397573f25c5716e4ebcf43ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_f67c9f64b44aa37cf87de12d08544051e132b059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_282c354f8476fcbee58094021664db0581147688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_036ca90f518956b827bbf3155e00655b17f364fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\hatice\AndroidStudioProjects\BigCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_de87d99d412c4218b69a922b1e5b34bc15ad5425.jar" />
+    </item>
+
+</items>
