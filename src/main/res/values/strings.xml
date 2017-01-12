@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BigCalculator</string>
+    <string name="sayi1">sayi1</string>
+    <string name="s1" />
+    <string name="say_giriniz">Sayı Giriniz</string>
+    <string name="say_giriniz_ondal_kl_say_i_in_kullan">Sayı Giriniz / Ondalıklı sayı için . kullan</string>
+</resources>

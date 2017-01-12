@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_calculator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="10dp"
+   android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="16dp"
+    android:background="@drawable/gradient"
+    tools:context="com.example.hatice.bigcalculator.CalculatorActivity">
+
+    <EditText
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:layout_marginBottom="0dp"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/sayi1"
+        android:background="@drawable/borderradius"
+        android:textColorHint="#7e1196d9"
+        android:textColor="#fff"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:hint="@string/say_giriniz_ondal_kl_say_i_in_kullan"
+        android:selectAllOnFocus="true"
+        android:maxLines="10"
+        android:lines="4" />
+
+    <Button
+        android:text="+"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:id="@+id/plus"
+        tools:ignore="HardcodedText"
+        android:layout_below="@+id/sayi2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_width="50dp"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:text="-"
+        android:layout_height="wrap_content"
+        android:id="@+id/minus"
+        tools:ignore="HardcodedText,RtlHardcoded"
+        android:layout_alignBaseline="@+id/plus"
+        android:layout_alignBottom="@+id/plus"
+        android:layout_toRightOf="@+id/plus"
+        android:layout_toEndOf="@+id/plus"
+        android:layout_width="50dp"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:id="@+id/mutlipy"
+        android:text="*"
+        tools:ignore="HardcodedText"
+        android:layout_alignBaseline="@+id/minus"
+        android:layout_alignBottom="@+id/minus"
+        android:layout_toRightOf="@+id/minus"
+        android:layout_toEndOf="@+id/minus"
+        android:layout_width="50dp"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:text="/"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
+        android:id="@+id/split"
+        android:layout_alignBaseline="@+id/mutlipy"
+        android:layout_alignBottom="@+id/mutlipy"
+        android:layout_toRightOf="@+id/mutlipy"
+        android:layout_toEndOf="@+id/mutlipy"
+        android:layout_width="50dp"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:text="^"
+        android:layout_height="wrap_content"
+        android:id="@+id/pow"
+        tools:ignore="HardcodedText"
+        android:layout_alignBaseline="@+id/split"
+        android:layout_alignBottom="@+id/split"
+        android:layout_toRightOf="@+id/split"
+        android:layout_toEndOf="@+id/split"
+        android:layout_width="50dp"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:text=" Asal"
+        android:padding="10dp"
+        android:id="@+id/prime"
+        tools:ignore="HardcodedText"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/mod"
+        android:layout_toRightOf="@+id/mod"
+        android:layout_toEndOf="@+id/mod"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:text="Obeb"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/plus"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="12dp"
+        android:id="@+id/gcd"
+        tools:ignore="HardcodedText"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:text="Okek"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/gcd"
+        android:layout_toRightOf="@+id/gcd"
+        android:layout_toEndOf="@+id/gcd"
+        android:id="@+id/lcm"
+        tools:ignore="HardcodedText"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:text="Kalan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mod"
+        tools:ignore="HardcodedText"
+        android:layout_alignBaseline="@+id/factoriel"
+        android:layout_alignBottom="@+id/factoriel"
+        android:layout_toRightOf="@+id/factoriel"
+        android:layout_toEndOf="@+id/factoriel"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/pow"
+        android:layout_toRightOf="@+id/pow"
+        android:layout_toEndOf="@+id/pow"
+        android:id="@+id/sqrt"
+        android:text="√"
+        android:layout_width="50dp"
+        tools:ignore="HardcodedText"
+        android:background="@drawable/operatorbackground"/>
+
+    <Button
+        android:text="Fak"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/factoriel"
+        tools:ignore="HardcodedText"
+        android:layout_alignBaseline="@+id/lcm"
+        android:layout_alignBottom="@+id/lcm"
+        android:layout_toRightOf="@+id/lcm"
+        android:layout_toEndOf="@+id/lcm"
+        android:background="@drawable/operatorbackground"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:padding="10dp"
+        android:ems="10"
+        android:background="@drawable/borderradius"
+        android:textColorHint="#7e1196d9"
+        android:textColor="#fff"
+        android:id="@+id/sayi2"
+        android:inputType="textImeMultiLine"
+        android:hint="@string/say_giriniz_ondal_kl_say_i_in_kullan"
+        tools:ignore="HardcodedText"
+        android:layout_below="@+id/sayi1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:maxLines="10"
+        android:lines="4"
+        />
+
+    <Button
+        android:text="1/x"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/sqrt"
+        android:layout_toRightOf="@+id/sqrt"
+        android:layout_toEndOf="@+id/sqrt"
+        tools:ignore="HardcodedText"
+        android:id="@+id/resevre"
+        android:background="@drawable/operatorbackground"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:padding="10dp"
+        android:background="@drawable/borderradius"
+        android:layout_below="@+id/clear"
+        android:layout_marginTop="14dp"
+        android:id="@+id/result"
+        android:hint="SONUÇ : "
+        android:textColor="#7e05a4f4"
+        android:textColorHint="#204557"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        tools:ignore="HardcodedText"
+        android:maxLines="10"
+        android:lines="10" />
+
+    <Button
+        android:text="Temizle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/clearbackground"
+        android:layout_marginTop="16dp"
+        android:id="@+id/clear"
+        tools:ignore="HardcodedText"
+        android:layout_below="@+id/gcd"
+        android:layout_toLeftOf="@+id/mutlipy"
+        android:layout_toStartOf="@+id/mutlipy" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="HardcodedText"
+        android:textStyle="bold"
+        android:text=""
+        android:id="@+id/digits"
+        android:layout_alignBaseline="@+id/clear"
+        android:layout_alignBottom="@+id/clear"
+        android:layout_toRightOf="@+id/mutlipy"
+        android:layout_toEndOf="@+id/mutlipy" />
+
+
+</RelativeLayout>
